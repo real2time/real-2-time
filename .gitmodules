@@ -1,0 +1,6 @@
+[submodule "real-2-time-editor"]
+	path = real-2-time-editor
+	url = https://github.com/real2time/real-2-time-editor.git
+[submodule "real-2-time-storm"]
+	path = real-2-time-storm
+	url = https://github.com/real2time/real-2-time-storm.git
